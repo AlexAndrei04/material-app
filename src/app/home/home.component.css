@@ -1,0 +1,12 @@
+.card__container {
+  align-items: center;
+}
+
+.card__content {
+  margin: 10px auto;
+  max-width: 600px;
+}
+
+.card__title {
+  text-align: center;
+}
